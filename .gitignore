@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Uploaded_hash
+uploaded_hashes.txt
+notion_upload_result.csv
